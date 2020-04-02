@@ -1,0 +1,11 @@
+framework module PSTestFramework {
+  umbrella header "PSTestFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module PSTestFramework.Swift {
+    header "PSTestFramework-Swift.h"
+    requires objc
+}
