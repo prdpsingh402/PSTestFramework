@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/PSTestFramework-Swift.h</key>
 		<data>
-		jtUpyt+mNE8wZRqiqNfpA/HHvtE=
+		oEaC8fuP0nR03vdzvB31ntjhn0A=
 		</data>
 		<key>Headers/PSTestFramework.h</key>
 		<data>
@@ -16,37 +16,29 @@
 		<data>
 		PFSU3UQZ7mTHgs/DopHaaTdtS/4=
 		</data>
-		<key>Modules/PSTestFramework.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<data>
-		Ys5+wjDsUfM00pHhMkbWQum9MDk=
-		</data>
-		<key>Modules/PSTestFramework.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<data>
-		aAYqdSVfBBd0VpI46NL01vVpikQ=
-		</data>
-		<key>Modules/PSTestFramework.swiftmodule/i386.swiftdoc</key>
-		<data>
-		Ys5+wjDsUfM00pHhMkbWQum9MDk=
-		</data>
-		<key>Modules/PSTestFramework.swiftmodule/i386.swiftmodule</key>
-		<data>
-		aAYqdSVfBBd0VpI46NL01vVpikQ=
-		</data>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		dOxu4GccZexjDOUlWclAP2j6FZg=
 		</data>
+		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		wB65php2CaJAa65EJeuxt4Spbvk=
+		</data>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zhXZVhyeDEyQW9aIPUIzM60kGas=
+		J+FUt7ViNjWysu3uXWagvhaFJfY=
 		</data>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
 		dOxu4GccZexjDOUlWclAP2j6FZg=
 		</data>
+		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftinterface</key>
+		<data>
+		wB65php2CaJAa65EJeuxt4Spbvk=
+		</data>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zhXZVhyeDEyQW9aIPUIzM60kGas=
+		J+FUt7ViNjWysu3uXWagvhaFJfY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -59,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jtUpyt+mNE8wZRqiqNfpA/HHvtE=
+			oEaC8fuP0nR03vdzvB31ntjhn0A=
 			</data>
 			<key>hash2</key>
 			<data>
-			iDHi9kFih9JRqT/KJ6DTFlotu6aztxK+hJ0d2chpmQk=
+			IAfmcOUsKC0rzHJmOxpT1hRUK1ZyNLHi5LzBbvPf0NU=
 			</data>
 		</dict>
 		<key>Headers/PSTestFramework.h</key>
@@ -77,50 +69,6 @@
 			npXOENYHf6DVN1GSyZLvGxgQX+LI47/AyvKBHqfJ0NU=
 			</data>
 		</dict>
-		<key>Modules/PSTestFramework.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ys5+wjDsUfM00pHhMkbWQum9MDk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ztBVgw3fmx/MhMlgCOPiyVhrORNwmat8+6e7zGfrp6I=
-			</data>
-		</dict>
-		<key>Modules/PSTestFramework.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aAYqdSVfBBd0VpI46NL01vVpikQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			FztLEOl4a3GxYPvnpTnha9lu27Dw3MDkDbCxUKjed1s=
-			</data>
-		</dict>
-		<key>Modules/PSTestFramework.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ys5+wjDsUfM00pHhMkbWQum9MDk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ztBVgw3fmx/MhMlgCOPiyVhrORNwmat8+6e7zGfrp6I=
-			</data>
-		</dict>
-		<key>Modules/PSTestFramework.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aAYqdSVfBBd0VpI46NL01vVpikQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			FztLEOl4a3GxYPvnpTnha9lu27Dw3MDkDbCxUKjed1s=
-			</data>
-		</dict>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
@@ -132,15 +80,26 @@
 			irP208vuZ5UR8sqPTKfVidE8X8TzmwDAijZx798WtCc=
 			</data>
 		</dict>
+		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wB65php2CaJAa65EJeuxt4Spbvk=
+			</data>
+			<key>hash2</key>
+			<data>
+			YClkHQX5RIrfeMalX6u+k3tMP4AMwe2TJlORoVGVcg0=
+			</data>
+		</dict>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zhXZVhyeDEyQW9aIPUIzM60kGas=
+			J+FUt7ViNjWysu3uXWagvhaFJfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0QAsEmQeKcN1gFP5W/MBAoTZ5UtCnD/zU22RPTYo+io=
+			KJNd1mq3Ei1AZjwmh8fHYjIQ6qiys69wGhvE8fkPF28=
 			</data>
 		</dict>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftdoc</key>
@@ -154,15 +113,26 @@
 			irP208vuZ5UR8sqPTKfVidE8X8TzmwDAijZx798WtCc=
 			</data>
 		</dict>
+		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wB65php2CaJAa65EJeuxt4Spbvk=
+			</data>
+			<key>hash2</key>
+			<data>
+			YClkHQX5RIrfeMalX6u+k3tMP4AMwe2TJlORoVGVcg0=
+			</data>
+		</dict>
 		<key>Modules/PSTestFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zhXZVhyeDEyQW9aIPUIzM60kGas=
+			J+FUt7ViNjWysu3uXWagvhaFJfY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0QAsEmQeKcN1gFP5W/MBAoTZ5UtCnD/zU22RPTYo+io=
+			KJNd1mq3Ei1AZjwmh8fHYjIQ6qiys69wGhvE8fkPF28=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
